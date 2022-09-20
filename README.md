@@ -1,1 +1,2 @@
-# CS372-Project
+2D-Unity-Game
+This application would be a great way to inform the public that these new normal activities would help us not to spread the Covid – 19 at the same time the quiz in the game is just a simple reminder that once they are not answered correctly life is like a “game over”. With that being said is the existence of THE NEW NORMAL: BEYOND COVID a desktop based game, real – time 2D game using Unity as the platform.
